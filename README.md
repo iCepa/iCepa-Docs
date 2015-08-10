@@ -54,3 +54,8 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html) (Rust/C FFI)
+
+#### Rust IDE
+
+* [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) both have Rust language plugins
+* [racer](https://github.com/phildawes/racer) - Rust autocomplete
