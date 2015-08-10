@@ -3,6 +3,7 @@
 ## Code Style
 
 * Prefer memory-safe code and languages (Swift, Rust)
+* [Apple Secure Coding Guide](https://developer.apple.com/library/mac/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
 * [Swift Style Guide](https://github.com/github/swift-style-guide)
 * [Objective-C Style Guide](https://github.com/github/objective-c-style-guide)
 * [Rust Style Guide](http://aturon.github.io/README.html)
