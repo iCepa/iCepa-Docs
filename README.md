@@ -40,6 +40,10 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 
 # Helpful Links
 
+## Secure Coding
+
+* [Apple Secure Coding Guide](https://developer.apple.com/library/mac/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
+
 ## Tor
 
 * [Tor Control Port](https://gitweb.torproject.org/torspec.git/tree/control-spec.txt)
