@@ -48,6 +48,9 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 ## Secure Coding
 
 * [Apple Secure Coding Guide](https://developer.apple.com/library/mac/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
+* [Swift Style Guide](https://github.com/github/swift-style-guide)
+* [Objective-C Style Guide](https://github.com/github/objective-c-style-guide)
+* [Rust Style Guide](http://aturon.github.io/README.html)
 
 ## Tor
 
@@ -60,6 +63,7 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html) (Rust/C FFI)
+* [Rust Style Guide](http://aturon.github.io/README.html)
 
 #### Rust IDE
 
