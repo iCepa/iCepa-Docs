@@ -49,7 +49,9 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * [Tor Control Port](https://gitweb.torproject.org/torspec.git/tree/control-spec.txt)
 * [Tor Manual](https://www.torproject.org/docs/tor-manual.html.en)
 
-## Learning Rust
+## Rust
+
+#### Learning Rust
 
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html) (Rust/C FFI)
