@@ -24,15 +24,21 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * Separate repo
 * Integrates Tor.framework
 * NEPacketTunnelProvider
-* Integrates tun2socks-rust
+* Integrates tun2socks
 * Prevent information leaks via domain/IP whitelist
 
-### tun2socks-rust
+## tun2socks
 
 * Separate repo
-* Write this as resuable Rust crate for memory safety and portability?
-* Write Obj-C or Swift wrapper for exported Rust C API
 * Convert [Conrad's Notes](https://docs.google.com/document/d/1ob96eK-qjrxzIdNEmglClaH3kI-O5CfT9tp1xnXwksc/edit?usp=sharing) to README.md
+* [tun2socks-iOS](https://github.com/shadowsocks/tun2socks-iOS) - Currently Empty
+* [tun2socks-iOS](https://github.com/linusyang/tun2socks-iOS) - [@linusyang](https://github.com/linusyang) branch
+* [tun2socks](https://github.com/ambrop72/badvpn/tree/master/tun2socks) - Upstream tun2socks repo
+
+#### tun2socks-rust
+
+* Rewrite this as resuable Rust crate for memory safety and portability?
+* Write Obj-C or Swift wrapper for exported Rust C API
 
 ## Tor for iOS App UI
 
