@@ -34,6 +34,7 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * [tun2socks-iOS](https://github.com/shadowsocks/tun2socks-iOS) - Currently Empty
 * [tun2socks-iOS](https://github.com/linusyang/tun2socks-iOS) - [@linusyang](https://github.com/linusyang) branch
 * [tun2socks](https://github.com/ambrop72/badvpn/tree/master/tun2socks) - Upstream tun2socks repo
+* [lwIP](http://savannah.nongnu.org/projects/lwip/) - Lightweight TCP/IP stack written in C
 
 #### tun2socks-rust
 
