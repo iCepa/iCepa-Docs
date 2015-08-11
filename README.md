@@ -50,7 +50,7 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * [Class reference](https://developer.apple.com/library/prerelease/ios/documentation/NetworkExtension/Reference/NETunnelProviderManagerClassRef/index.html#//apple_ref/doc/uid/TP40016295)
 * [WWDC Session about Network Extensions](https://developer.apple.com/videos/wwdc/2015/?id=717)
 * [Sample code](https://developer.apple.com/library/prerelease/ios/samplecode/SimpleTunnel/Introduction/Intro.html)
-
+* [ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS) - Includes Swift PacketTunnelProvider Example 
 
 ## Secure Coding
 
