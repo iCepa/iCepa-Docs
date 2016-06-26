@@ -35,6 +35,7 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * [tun2socks-iOS](https://github.com/linusyang/tun2socks-iOS) - [@linusyang](https://github.com/linusyang) branch
 * [tun2socks](https://github.com/ambrop72/badvpn/tree/master/tun2socks) - Upstream tun2socks repo
 * [lwIP](http://savannah.nongnu.org/projects/lwip/) - Lightweight TCP/IP stack written in C
+* [tun2socks - Swift wrapper](https://github.com/zhuhaow/tun2socks)
 
 #### tun2socks-rust
 
@@ -59,6 +60,7 @@ Documentation scratchpad for iOS Tor VPN implementation. Below are the different
 * [Sample code](https://developer.apple.com/library/prerelease/ios/samplecode/SimpleTunnel/Introduction/Intro.html)
 * [ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS) - Includes Swift PacketTunnelProvider Example 
 * [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS/issues/124) - Issue 124: "Adopting iOS 9 network extension points" discussion thread
+* [NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for NetworkExtension Framework
 
 ## Secure Coding
 
